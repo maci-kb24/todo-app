@@ -1,11 +1,13 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
 body {
   background-color: #d3d3d3;
   color: #59596D;
   margin:0;
+}
+
+.app {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  max-width: 40%;
+  width: 100%;
+  margin: 0 auto;
 }
