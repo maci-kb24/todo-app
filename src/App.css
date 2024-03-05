@@ -9,5 +9,13 @@ body {
   font-size: calc(10px + 2vmin);
   max-width: 40%;
   width: 100%;
+  padding:20px;
   margin: 0 auto;
+  background-color: #31315B;
+}
+.app-title {
+  text-align: right;
+  margin:0;
+  text-transform: uppercase;
+  margin-bottom: 20px;
 }
